@@ -22,16 +22,14 @@ The content is organized by course modules and types of materials:
     * *Examples:* `week1_chapter1_intro_to_programming.md`, `week2_chapter2_variables_expressions_types.md`.
 
 * ### `assignments/` or `exercises/`
-    Your solutions to weekly programming assignments and exercises.
-    * *Examples:* `assignment_2_3.py`, `exercise_chapter_3.py`. Consider sub-folders like `assignments/week_2/` for clarity.
+    My solutions to weekly programming assignments and exercises.
+    * *Examples:* `assignment_2_3.py`, `exercise_chapter_3.py`. Consider there can be sub-folders like `assignments/week_2/` for         clarity.
 
 
 ## 3. How to Use This Content
 
 * **Review Concepts:** Use `lectures/` or `notes/` to refresh your memory.
-* **Examine Solutions:** Check `assignments/` to see how problems were solved.
-* **Run Scripts:** Execute scripts in `scripts/` to see code in action (`python your_script_name.py` in terminal).
-* **Reference:** Use `resources/` for quick lookups of Python syntax or functions.
+* **Examine Solutions:** Check `assignments/` to see how problems were solved
 
 ## 4. Getting Started (For New Learners)
 
