@@ -1,6 +1,6 @@
 # Python Data Structures
 
-This subfolder contains all materials related to **"Python Data Structures"**, the second course in the "Python for Everybody Specialization" offered by the University of Michigan on Coursera. Building upon the foundational programming concepts, this course dives deep into Python's core built-in data structures and how to interact with files. This course covers chapters 7-11 of the Charles R. Severance 'Python for Everybody: Exploring Data in Python 3' book.
+This subfolder contains all materials related to **"Python Data Structures"**, the second course in the "Python for Everybody Specialization" offered by the University of Michigan on Coursera. Building upon the foundational programming concepts, this course dives deep into Python's core built-in data structures and how to interact with files. This course covers chapters 6-10 of the Charles R. Severance 'Python for Everybody: Exploring Data in Python 3' book.
 
 ## 1. Course Overview and Learning Objectives
 
