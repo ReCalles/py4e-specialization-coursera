@@ -12,6 +12,7 @@
     * [4. Using Databases with Python](#4-using-databases-with-python)
     * [5. Capstone: Retrieving, Processing, and Visualizing Data with Python](#5-capstone-retrieving-processing-and-visualizing-data-with-python)
 * [Key Learnings & Skills Gained](#key-learnings--skills-gained)
+* [Recommended Resources](#recommended-resources)
 * [How to Run the Code](#how-to-run-the-code)
 * [Acknowledgements](#acknowledgements)
 
@@ -80,8 +81,24 @@ To run the code within this repository:
     ```
     *Note: Some projects might require specific libraries (e.g., `requests`, `BeautifulSoup4`, `sqlite3`). You might need to install them using `pip install [library-name]`.*
 
+
+## Recommended Resources
+
+To access the official course materials, please visit:
+
+* [Python for Everybody on Coursera](https://www.coursera.org/specializations/python)
+* [Python for Everybody Website](http://www.py4e.com/)
+
+I highly recommend the following materials for anyone interested in Python:
+
+* Book: [Python for Everybody](https://www.py4e.com/book)
+* Slides and Lectures: Available on the [Python for Everybody website](http://www.py4e.com/lessons)
+
+
 ## Acknowledgements
 
 A huge thank you to **Dr. Charles Severance** for his excellent teaching and the **University of Michigan** for providing this valuable specialization on **Coursera**. Their clear explanations and practical assignments made learning Python engaging and accessible.
 
 ---
+
+> Note: This repository is my personal project and is not affiliated with Coursera or the University of Michigan. It does not contain any copyrighted course materials or solutions provided by these platforms.
