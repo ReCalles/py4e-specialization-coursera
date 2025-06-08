@@ -1,6 +1,6 @@
 # Python for Everybody Specialization - Coursera
 
-**My learning journey through the 'Python for Everybody Specialization' by Dr. Charles Severance on Coursera.** This repository contains code, assignments, and projects covering Python fundamentals, data structures, web data access, and databases, serving as a comprehensive introduction to Python programming for aspiring data scientists and web developers.
+**My learning journey through the 'Python for Everybody Specialization' by Dr. Charles Severance on Coursera.** This repository contains code, assignments, and projects covering Python fundamentals, data structures, web data access, databases, web scraping and SQL, serving as a comprehensive introduction to Python programming for aspiring data scientists and web developers.
 
 ## Table of Contents
 
