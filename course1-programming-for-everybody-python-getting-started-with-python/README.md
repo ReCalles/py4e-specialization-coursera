@@ -29,9 +29,7 @@ The content is organized by course modules and types of materials:
 ## 3. How to Use This Content
 
 * **Review Concepts:** Use `lectures/` or `notes/` to refresh your memory.
-* **Examine Solutions:** Check `assignments/` to see how problems were solved.
-* **Run Scripts:** Execute scripts in `scripts/` to see code in action (`python your_script_name.py` in terminal).
-* **Reference:** Use `resources/` for quick lookups of Python syntax or functions.
+* **Examine Solutions:** Check `assignments/` to see how problems were solved
 
 ## 4. Getting Started (For New Learners)
 
