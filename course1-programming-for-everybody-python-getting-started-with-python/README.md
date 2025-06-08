@@ -19,7 +19,7 @@ The content is organized by course modules and types of materials:
 
 * ### `lectures/` or `notes/`
     Your personal notes and summaries of video lectures.
-    * *Examples:* `week1_introduction.md`, `week2_variables_expressions.md`.
+    * *Examples:* `week1_chapter1_intro_to_programming.md`, `week2_chapter2_variables_expressions_types.md`.
 
 * ### `assignments/` or `exercises/`
     Your solutions to weekly programming assignments and exercises.
