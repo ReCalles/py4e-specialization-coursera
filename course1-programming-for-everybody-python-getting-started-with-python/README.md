@@ -1,6 +1,6 @@
 # Programming for Everybody (Getting Started with Python)
 
-This folder contains all materials for "Programming for Everybody (Getting Started with Python)", the introductory Python 3 course from the University of Michigan's "Python for Everybody Specialization" on Coursera. It's designed for beginners to learn fundamental programming concepts.
+This folder contains all materials for "Programming for Everybody (Getting Started with Python)", the introductory Python 3 course from the University of Michigan's "Python for Everybody Specialization" on Coursera. It's designed for beginners to learn fundamental programming concepts. This first course covers chapters 1-6 of the Charles R. Severance 'Python for Everybody: Exploring Data in Python 3' book.
 
 ## 1. Course Objectives
 
