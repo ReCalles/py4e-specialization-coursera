@@ -17,10 +17,6 @@ Below is a list of common data files (or types of files) used in this course and
 * **Description:** A python code used as reference on the mentioned assignment.
 * **Used for:** `assignment_12_2_scraping_html_data_with_beautifulsoup.py` (This document is not technically used, but its being used as a template for the assigment, it was provided on the course by professor Charles Severance).
 
-### `bs4.zip`
-* **Description:** A zip file containing beautiful soup code used as reference on the mentioned assignment. This python library Beautiful Soup is a Python library is primarily used for web scraping. It's designed to make it easy to extract data from HTML and XML documents.
-* **Used for:** assignment_12_2_scraping_html_data_with_beautifulsoup.py` (This document is not technically used, but its being used as a template for the assigment, it was provided on the course by professor Charles Severance).
-
 ### `urllinks.py`
 * **Description:** A python code used as reference on the mentioned assignment.
 * **Used for:** `assignment_12_3_following_links_in_python.py` (This document is not technically used, but its being used as a template for the assigment, it was provided on the course by professor Charles Severance).
