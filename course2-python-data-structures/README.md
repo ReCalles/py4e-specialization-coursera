@@ -30,17 +30,9 @@ This subfolder is organized to reflect the course's progression through differen
     * *Example Files:* `assignment_7_1_mbox_short.py`, `exercise_chapter_8.py`, `word_frequency_counter.py`.
     * **Sub-folders within `assignments/` (Optional):** Consider `assignments/week_7/`, `assignments/week_8/` for further organization.
 
-* ### `scripts/` or `demos/`
-    Small Python scripts written to test specific concepts related to data structures or file I/O, or to replicate examples shown in lectures.
-    * *Example Files:* `list_methods_demo.py`, `dict_counting_example.py`, `file_reader_test.py`.
-
-* ### `data/` or `inputs/`
+* ### `data/` 
     (Optional, but highly recommended for this course!) This folder can store sample data files (e.g., `.txt`, `.csv`) that are used as input for your assignments or scripts, especially for file handling exercises.
     * *Example Files:* `mbox-short.txt`, `words.txt`, `sample_data.csv`.
-
-* ### `resources/` or `cheatsheets/`
-    Any supplementary materials found helpful, such as links to documentation on list/dict methods, diagrams explaining data structure concepts, or file handling best practices.
-    * *Example Files:* `list_methods_cheatsheet.md`, `dict_common_patterns.txt`, `file_reading_tips.md`.
 
 ## 3. How to Use This Content
 
