@@ -33,4 +33,4 @@ For your Python scripts to access these data files correctly, ensure one of the 
 1.  **Place the data file in the same directory as the Python script** that will be reading it.
 2.  **Provide the correct relative or absolute path** to the data file when opening it within your Python script (e.g., `open('data/mbox-short.txt')` if your script is in a parent directory relative to the `data` folder).
 
-Files are available in the  `data/` folder.
+It is recommended to keep these data files within this `data/` folder for consistent organization.
