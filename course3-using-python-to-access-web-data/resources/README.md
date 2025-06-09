@@ -1,6 +1,6 @@
 # Resource Files for Web Data Access Assignments
 
-This folder contains local data files (e.g., py, .zip folders, txt) that are used by various Python assignments throughout the "Using Python to Access Web Data" course. While many assignments in this course involve fetching data directly from web URLs, some exercises may require local files for testing or specific scenarios.
+This folder contains local resources files (e.g., py, .zip folders, txt) that are used by various Python assignments throughout the "Using Python to Access Web Data" course. While many assignments in this course involve fetching data directly from web URLs, some exercises may require local files for testing or specific scenarios.
 
 ---
 
