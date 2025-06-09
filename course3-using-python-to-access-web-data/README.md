@@ -1,6 +1,6 @@
 # Using Python to Access Web Data
 
-This subfolder contains all materials related to **"Using Python to Access Web Data"**, the third course in the "Python for Everybody Specialization" offered by the University of Michigan on Coursera. This course builds upon your foundational Python skills and data structures knowledge to explore how Python interacts with the internet to retrieve, process, and understand web data.
+This subfolder contains all materials related to **"Using Python to Access Web Data"**, the third course in the "Python for Everybody Specialization" offered by the University of Michigan on Coursera. This course builds upon your foundational Python skills and data structures knowledge to explore how Python interacts with the internet to retrieve, process, and understand web data. This course overs chapters 11-13 of the Charles R. Severance 'Python for Everybody: Exploring Data in Python 3' book.
 
 ## 1. Course Overview and Learning Objectives
 
