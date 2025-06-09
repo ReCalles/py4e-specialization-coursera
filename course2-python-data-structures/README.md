@@ -31,7 +31,7 @@ This subfolder is organized to reflect the course's progression through differen
     * **Sub-folders within `assignments/` (Optional):** Consider `assignments/week_7/`, `assignments/week_8/` for further organization.
 
 * ### `data/` 
-    (Optional, but highly recommended for this course!) This folder can store sample data files (e.g., `.txt`, `.csv`) that are used as input for your assignments or scripts, especially for file handling exercises.
+     This folder can store sample data files (e.g., `.txt`, `.csv`) that are used as input for your assignments or scripts, especially for file handling exercises.
     * *Example Files:* `mbox-short.txt`, `words.txt`, `sample_data.csv`.
 
 ## 3. How to Use This Content

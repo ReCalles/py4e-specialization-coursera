@@ -35,17 +35,13 @@ This subfolder is organized to accommodate the different technologies and data f
     Small, self-contained Python scripts for testing web data access concepts, demonstrating API calls, or parsing local XML/JSON files.
     * *Example Files:* `simple_http_get.py`, `regex_tester.py`, `json_parser_demo.py`.
 
-* ### `data/` or `inputs/`
-    (Highly recommended!) This folder can store local XML or JSON files used for testing your parsing scripts, or any specific input files needed for assignments.
-    * *Example Files:* `sample_data.xml`, `sample_data.json`, `page1.html`.
+* ### `data/` 
+     This folder can store sample data files (e.g., `.txt`, `.csv`) that are used as input for your assignments or scripts, especially for file handling exercises.
+    * *Example Files:* `mbox-short.txt`, `words.txt`, `sample_data.csv`.
 
-* ### `api_keys/` or `credentials/`
-    (Optional, **use with extreme caution!**): If any assignments require API keys, you *might* create a **separate, highly restricted file** (e.g., `keys.py` with only variables, or a `.env` file) *within this folder*. **NEVER commit actual API keys directly into your main scripts or public repositories.** You should generally use environment variables or a `.gitignore` to prevent these from being pushed to GitHub.
-    * *Example Files:* `api_config.py` (with placeholder values), `.env` (added to `.gitignore`).
-
-* ### `resources/` or `cheatsheets/`
+* ### `resources/` 
     Supplementary materials like regular expression cheat sheets, HTTP status code lists, XML/JSON syntax guides, or links to public APIs for practice.
-    * *Example Files:* `regex_cheatsheet.md`, `http_status_codes.txt`, `json_syntax_guide.md`.
+    * *Example Files:* `socket1.py`, `intro-short.txt`, `Regex-Guide.pdf`.
 
 ## 3. How to Use This Content
 
