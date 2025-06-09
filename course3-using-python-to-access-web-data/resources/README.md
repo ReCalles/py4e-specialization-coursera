@@ -8,6 +8,9 @@ This folder contains local data files (e.g., py, .zip folders, txt) that are use
 
 Below is a list of common data files (or types of files) used in this course and the assignments/resources that might utilize them.
 
+### `Regex-Guide.pdf`
+* **Description:** A pdf file used as a cheat sheet contining Regular Expression commands.
+* **Used for:** `assignment_11_ext_dat_with_reg_exp.py` (This document is not technically used, but it helps in understanding common Regular Expression commands that can be used on this activity).
 
 ### `intro-short.txt`
 * **Description:** A text file typically containing lines of text.
