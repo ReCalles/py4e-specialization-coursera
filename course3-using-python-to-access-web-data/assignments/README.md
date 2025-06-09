@@ -39,4 +39,4 @@ For your Python scripts to access these data files correctly, ensure one of the 
 
 Files are available in the `data/` folder.
 
-NOTE: There is a `resources/` folder that contains resources that are mentioned on this assigments and can be used as help, template or reference to work on this activities.
+## NOTE: There is a `resources/` folder that contains resources that are mentioned on this assigments and can be used as help, template or reference to work on this activities.
