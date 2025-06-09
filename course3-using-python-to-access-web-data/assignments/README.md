@@ -37,4 +37,8 @@ For your Python scripts to access these data files correctly, ensure one of the 
 2.  **Provide the correct relative or absolute path** to the data file when opening it within your Python script (e.g., `open('data/regex_sum_#####.txt')` if your script is in a parent directory relative to the `data` folder).
 3.  **For web-based assignments**, the script itself will often fetch the data from a provided URL, so these local files are primarily for testing or specific offline scenarios.
 
-It is recommended to keep these data files within this `data/` folder for consistent organization.
+Files are available in the `data/` folder.
+
+## Note
+
+NOTE: There is a `resources/` folder that contains resources that are mentioned on this assigments and can be used as help, template or reference to work on this activities.
