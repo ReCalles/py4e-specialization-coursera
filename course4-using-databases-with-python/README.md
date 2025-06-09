@@ -50,7 +50,6 @@ This repository is a valuable resource for reviewing and reinforcing your unders
 
 * **Review Concepts:** Use `lectures/` or `notes/` to refresh your memory on database fundamentals, SQL, and OOP.
 * **Examine Solutions:** Explore `assignments/` to see how specific problems involving databases were solved.
-* **Run Example Scripts:** Execute scripts in `scripts/` to observe their output and reinforce your understanding (`python your_script_name.py` in terminal).
 * **Access Databases:** Open `.sqlite` or `.db` files in the `databases/` folder using database browsers (like DB Browser for SQLite) to inspect your data.
 * **Reference Materials:** Utilize `resources/` for quick lookups of SQL syntax or database concepts.
 
