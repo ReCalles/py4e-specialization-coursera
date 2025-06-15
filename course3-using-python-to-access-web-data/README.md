@@ -29,7 +29,7 @@ This subfolder is organized to accommodate the different technologies and data f
 * ### `assignments/` or `exercises/`
     Your solutions to programming assignments and exercises, specifically those involving web data retrieval, parsing, and API interactions.
     * *Example Files:* `regex_sum.py`, `url_words.py`, `xml_parsing_assignment.py`, `json_api_assignment.py`.
-    * **Sub-folders within `assignments/` (Optional):** Consider `assignments/week_11/`, `assignments/week_12/` for further organization.
+    * **Sub-folders within `assignments/` 
 
 * ### `scripts/` or `demos/`
     Small, self-contained Python scripts for testing web data access concepts, demonstrating API calls, or parsing local XML/JSON files.
