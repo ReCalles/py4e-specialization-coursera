@@ -40,7 +40,6 @@ This subfolder is organized to reflect the course's focus on database interactio
 
 * ### `resources/` or `cheatsheets/`
     Supplementary materials found helpful, such as SQL command cheat sheets, database design principles, or links to `sqlite3` module documentation.
-    * *Example Files:* `sql_commands.md`, `sqlite3_tips.txt`, `database_design_basics.md`.
 
 ## 3. How to Use This Content 
 
