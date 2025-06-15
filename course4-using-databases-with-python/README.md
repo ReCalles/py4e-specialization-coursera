@@ -46,7 +46,7 @@ This subfolder is organized to reflect the course's focus on database interactio
     Supplementary materials found helpful, such as SQL command cheat sheets, database design principles, or links to `sqlite3` module documentation.
     * *Example Files:* `sql_commands.md`, `sqlite3_tips.txt`, `database_design_basics.md`.
 
-## 3. How to Use This Content
+## 3. How to Use This Content 
 
 This repository is a valuable resource for reviewing and reinforcing your understanding of databases with Python and OOP.
 
