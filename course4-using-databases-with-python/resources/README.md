@@ -8,14 +8,14 @@ This `resources/` folder contains local resource files, helper scripts, and samp
 
 The resources are organized into specific subfolders, each grouping files related to a particular assignment or topic.
 
-### `email_counting_db_resources/` (Formerly `1/`)
+### `email_counting_db_resources/` 
 
 * **Description:** Contains resources specifically for the email counting database assignment (`assignment_15_1_counting_emailsdb.py`).
 * **Contents:**
     * `emaildb.py`: A Python code file, likely serving as a template or reference for setting up the email database.
     * `mbox.txt`: A text file containing email data. This file is directly used as input by the assignment's Python script.
 
-### `musical_tracks_db_resources/` (Formerly `2/`)
+### `musical_tracks_db_resources/` 
 
 * **Description:** Contains resources for the musical tracks database assignment (`assignment_15_2_musical_tracks_db.py`).
 * **Contents:**
@@ -24,7 +24,7 @@ The resources are organized into specific subfolders, each grouping files relate
     * `README.txt`: A plain text README specific to this resource set.
     * `old/`: An additional subfolder, likely containing older versions or related files.
 
-### `student_roster_db_resources/` (Formerly `3/`)
+### `student_roster_db_resources/` 
 
 * **Description:** Contains resources for the student roster database assignment (`assignment_15_8_many_students_in_many_courses.py`), which typically models many-to-many relationships.
 * **Contents:**
