@@ -101,4 +101,4 @@ A huge thank you to **Dr. Charles Severance** for his excellent teaching and the
 
 ---
 
-> Note: This repository is my personal project and is not affiliated with Coursera or the University of Michigan. It does not contain any copyrighted course materials or solutions provided by these platforms.
+> Note: Note: This repository is my personal project and is not affiliated with Coursera or the University of Michigan. It primarily contains my personal notes, code solutions, and publicly available supplementary materials for the "Python for Everybody Specialization". It does not contain any copyrighted course solutions provided directly by the platforms, beyond publicly distributed lecture slides.
