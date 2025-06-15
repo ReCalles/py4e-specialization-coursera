@@ -31,10 +31,6 @@ This subfolder is organized to accommodate the different technologies and data f
     * *Example Files:* `regex_sum.py`, `url_words.py`, `xml_parsing_assignment.py`, `json_api_assignment.py`.
     * **Sub-folders within `assignments/` 
 
-* ### `scripts/` or `demos/`
-    Small, self-contained Python scripts for testing web data access concepts, demonstrating API calls, or parsing local XML/JSON files.
-    * *Example Files:* `simple_http_get.py`, `regex_tester.py`, `json_parser_demo.py`.
-
 * ### `data/` 
      This folder can store sample data files (e.g., `.txt`, `.csv`) that are used as input for your assignments or scripts, especially for file handling exercises.
     * *Example Files:* `mbox-short.txt`, `words.txt`, `sample_data.csv`.
