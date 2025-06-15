@@ -38,10 +38,6 @@ This subfolder is organized to reflect the course's focus on database interactio
     This folder can store *general* sample data files (e.g., `.txt`, `.csv`) that are used as input across multiple assignments or for demonstration purposes. **However, specific input data for individual assignments might also be found directly within their respective assignment folders.**
     * *Example Files:* `mbox-short.txt`, `words.txt`, `sample_data.csv`.
 
-* ### `databases/`
-    (Highly recommended for this course!) This folder can store *general* SQLite database files (`.sqlite`, `.db`) that you create or interact with during assignments. **However, database files created by specific assignments are often stored directly within their respective assignment folder for self-containment.**
-    * *Example Files:* `emaildb.sqlite`, `tracks.sqlite`, `roster.sqlite`.
-
 * ### `resources/` or `cheatsheets/`
     Supplementary materials found helpful, such as SQL command cheat sheets, database design principles, or links to `sqlite3` module documentation.
     * *Example Files:* `sql_commands.md`, `sqlite3_tips.txt`, `database_design_basics.md`.
