@@ -1,6 +1,15 @@
 # Python for Everybody Specialization - Coursera
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 **My learning journey through the 'Python for Everybody Specialization' by Dr. Charles Severance on Coursera.** This repository contains code, assignments, and projects covering Python fundamentals, data structures, web data access, databases, web scraping and SQL, serving as a comprehensive introduction to Python programming for aspiring data scientists and web developers.
+
+---
 
 ## Table of Contents
 
@@ -12,8 +21,9 @@
     * [4. Using Databases with Python](#4-using-databases-with-python)
     * [5. Capstone: Retrieving, Processing, and Visualizing Data with Python](#5-capstone-retrieving-processing-and-visualizing-data-with-python)
 * [Key Learnings & Skills Gained](#key-learnings--skills-gained)
-* [Recommended Resources](#recommended-resources)
+* [Tools & Technologies](#tools--technologies)
 * [How to Run the Code](#how-to-run-the-code)
+* [Recommended Resources](#recommended-resources)
 * [Acknowledgements](#acknowledgements)
 
 ---
@@ -38,7 +48,7 @@ This specialization consists of five courses. Below is a brief overview of what 
 
 ### 3. Using Python to Access Web Data
 * **Focus:** Using Python to retrieve, parse, and process data from the web.
-* **Concepts Covered:** Web scraping (BeautifulSoup), JSON, XML, using web APIs (e.g., Google Geocoding API).
+* **Concepts Covered:** Web scraping (BeautifulSoup), JSON, XML, using web APIs.
 * **Repository Folder:** `course3-using-python-to-access-web-data/`
 
 ### 4. Using Databases with Python
@@ -61,6 +71,16 @@ Through this specialization, I have gained practical experience in:
 * **Database Interaction:** Ability to design, create, and interact with SQL databases (SQLite) using Python.
 * **Problem Solving:** Developed strong logical thinking and problem-solving skills applied to various programming challenges.
 * **Code Organization:** Practices for writing clean, modular, and well-documented Python code.
+
+## Tools & Technologies
+
+The primary tools and technologies utilized in this specialization and for this repository include:
+
+* **Python:** The core programming language for all assignments and projects.
+* **SQL/SQLite:** For database design, data modeling, and information retrieval.
+* **JSON/XML:** For parsing and exchanging data from web services and APIs.
+* **BeautifulSoup:** The key library used for web scraping and extracting data from HTML.
+* **Git & GitHub:** For version control and documentation of my progress.
 
 ## How to Run the Code
 
@@ -101,4 +121,4 @@ A huge thank you to **Dr. Charles Severance** for his excellent teaching and the
 
 ---
 
-> Note: Note: This repository is my personal project and is not affiliated with Coursera or the University of Michigan. It primarily contains my personal notes, code solutions, and publicly available supplementary materials for the "Python for Everybody Specialization". It does not contain any copyrighted course solutions provided directly by the platforms, beyond publicly distributed lecture slides.
+> Note: This repository is my personal project and is not affiliated with Coursera or the University of Michigan. It primarily contains my personal notes, code solutions, and publicly available supplementary materials for the "Python for Everybody Specialization". It does not contain any copyrighted course solutions provided directly by the platforms, beyond publicly distributed lecture slides.
